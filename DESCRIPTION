@@ -1,0 +1,12 @@
+Package: RECONR
+Title: A data package
+Version: 0.99.0
+Date: 2015-01-23
+Author: Anand K. Gavai
+Description:  A data only package containing metabolic reconstructions in SBML format from BiGG database and Human Metabolic Reconstructions ReconX.
+Maintainer: Anand Gavai <anand.gavai@bioinformatics.nl>
+License: Artistic-2.0
+Depends: R (>= 2.10), Biobase (>= 2.5.5)
+Suggests: BiGGR,rsbml
+biocViews: BiGGR, Systems Biology, Metabolomics
+Packaged: 2015-01-13 13:58:48 UTC; biocbuild
